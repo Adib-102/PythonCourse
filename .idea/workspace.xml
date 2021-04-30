@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71eccd33-7d7f-425c-ad02-4395be0f10cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Assignments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Assignments.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section_02/assignment_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section_02/assignment_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section_02/assignment_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section_02/assignment_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section_02/assignment_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section_02/assignment_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section_02/assignment_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section_02/assignment_04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_01/assignment_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section_01/assignment_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_01/assignment_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section_01/assignment_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_01/assignment_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section_01/assignment_03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_01/assignment_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section_01/assignment_04.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +29,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Section_06/project_files/first_folder/second_folder" />
   </component>
