@@ -13,6 +13,10 @@ original_list = ['cup', 'cereal', 'milk', (8, 4, 3)]
 
 # your code below:
 
+tuple_sorted = original_list.pop()
+print(sorted(tuple_sorted))
+
+
 
 
 

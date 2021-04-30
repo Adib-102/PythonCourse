@@ -11,6 +11,9 @@ who owns a bike, a laptop and boat.
 
 # your code below:
 
+dictionary = {'Tom' : {'Salary': 20000, 'age': 22, 'owns':['jacket', 'car', 'TV']},
+              'Mike' : {'Salary': 24000, 'age': 27, 'owns' :['bike','laptop','boat']}}
+print(dictionary)
 
 
 
